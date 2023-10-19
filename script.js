@@ -2,7 +2,7 @@ const audioContext = new AudioContext()
 
 const NOTE_DETAILS = [
   { note: "C", key: "Z", frequency: 261.626, active: false },
-  { note: "Db", https://github.com/marcoantonetti/Piano.gitkey: "S", frequency: 277.183, active: false },
+  { note: "Db",key: "S", frequency: 277.183, active: false },
   { note: "D", key: "X", frequency: 293.665, active: false },
   { note: "Eb", key: "D", frequency: 311.127, active: false },
   { note: "E", key: "C", frequency: 329.628, active: false },
